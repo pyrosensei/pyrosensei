@@ -34,7 +34,7 @@ I work on Python APIs and AI applications where model output is checked against 
 | [Pahunch](https://github.com/pyrosensei/pahunch) | Voice delivery workflow with structured plans, policy checks, explicit confirmation, operator console, and regression tests | In progress; tests use synthetic orders |
 | [KRMAI](https://github.com/pyrosensei/LLM-Based-Knowledge-Retrieval-System) | University question answering with document retrieval, citations, and streaming chat | Source code available; live chatbot currently offline |
 | [Aisle](https://github.com/pyrosensei/Aisle) | Hackathon AI buyer with source-locked prices, spend and stock checks, and simulated payments | Hackathon build; test mode only |
-| [Amabze Rental](https://www.amabzerental.com/) | B2B rental booking site: defined product requirements and the online booking flow; set up Firebase/Google Cloud deployment, DNS, and transactional email | Live site; implementation was largely AI-assisted |
+| [Amabze Rental](https://www.amabzerental.com/) | B2B rental booking site: defined product requirements and the online booking flow; set up Firebase/Google Cloud deployment, DNS, and transactional email | Live B2B booking site |
 
 Other demo: [DevPlane](https://github.com/pyrosensei/Capstone_Devops) is a local developer platform capstone; deployment actions are simulated.
 
